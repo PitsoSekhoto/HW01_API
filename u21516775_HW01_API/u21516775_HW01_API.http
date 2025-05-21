@@ -1,0 +1,6 @@
+@u21516775_HW01_API_HostAddress = http://localhost:5115
+
+GET {{u21516775_HW01_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
